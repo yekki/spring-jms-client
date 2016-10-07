@@ -1,0 +1,14 @@
+*.jar
+*.war
+*.ear
+hs_err_pid*
+.dropbox
+.dropbox.attr
+.dropbox.cache
+
+.DS_Store
+
+target/
+paging/
+store/
+config/paging/
